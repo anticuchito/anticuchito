@@ -15,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anticuchito&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=anticuchito/&theme=tokyonight)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
